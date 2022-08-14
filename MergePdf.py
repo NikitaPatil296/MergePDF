@@ -13,3 +13,4 @@ for pdf_file in pdf_files:
 #Write out the merged PDF
 merger.write("merged_2_pages.pdf")
 merger.close()
+
